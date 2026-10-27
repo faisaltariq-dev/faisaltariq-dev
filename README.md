@@ -36,6 +36,12 @@ Git
 
 # Current Featured Projects
 
+## 📝 Localhost Exam Simulator
+
+A local, web-based exam simulator. Any AI writes the exam from one format prompt, and the app parses it into a timed exam with notes, a review list, multiple attempts and per-domain scores. It also includes an optional low-cost agent workflow for repairing exams that fail to parse, where the user approves every action the agent queues.
+
+Repository: [localhost-exam-simulator](https://github.com/faisaltariq-dev/localhost-exam-simulator)
+
 ## 🚀 Kiosk Agent Order Maker — Enhanced Performance
 
 A research-driven evolution of the original OrderBuilder system.
