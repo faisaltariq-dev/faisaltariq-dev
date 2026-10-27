@@ -48,34 +48,34 @@ A research-driven evolution of the original OrderBuilder system.
 
 This project compares Prompting, RAG, and Fine-Tuning approaches for converting natural-language food orders into structured order JSON. It includes synthetic dataset generation, a reproducible evaluation harness, deployment infrastructure, and a fine-tuned Qwen3-8B model.
 
-Repository: [kioskagentordermaker-enhanced](https://github.com/faisalsardi-dev/kioskagentordermaker-enhanced)
+Repository: [kioskagentordermaker-enhanced](https://github.com/faisaltariq-dev/kioskagentordermaker-enhanced)
 
 ## 🍔 OrderBuilder
 
 An AI-powered ordering platform that allows customers to build orders either through a traditional kiosk interface or through a conversational agent.
 
-Repository: [kioskagentordermaker](https://github.com/faisalsardi-dev/kioskagentordermaker)
+Repository: [kioskagentordermaker](https://github.com/faisaltariq-dev/kioskagentordermaker)
 
 ## 💬 Meowic
 
 A command-line WhatsApp client built on the whatsmeow Go library, exposing multi-device messaging to coding agents either directly through the CLI or through a stdio/HTTP server that wraps the program in the Model Context Protocol that tracks every call the LLM makes.
 
-Repository: [meowic](https://github.com/faisalsardi-dev/meowic)
+Repository: [meowic](https://github.com/faisaltariq-dev/meowic)
 
 ## ⛓️ OpenLedger
 
 A simplified cryptocurrency implementation demonstrating wallet generation, transaction signing, balance tracking, and blockchain-style ledger verification.
 
-Repository: [openledger](https://github.com/faisalsardi-dev/openledger)
+Repository: [openledger](https://github.com/faisaltariq-dev/openledger)
 
 ## 🪙 CLICrypto
 
 A lightweight command-line cryptocurrency tracker that retrieves live market data directly from CoinGecko.
 
-Repository: [clicrypto](https://github.com/faisalsardi-dev/clicrypto)
+Repository: [clicrypto](https://github.com/faisaltariq-dev/clicrypto)
 
 ## 🤖 Leap-Aware Agent
 
 A comparison of deterministic software architecture and LLM tool-calling workflows using leap-year-aware date calculations.
 
-Repository: [leapawareagent](https://github.com/faisalsardi-dev/leapawareagent)
+Repository: [leapawareagent](https://github.com/faisaltariq-dev/leapawareagent)
