@@ -1,3 +1,23 @@
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/126170204?s=180" alt="Faisal's current GitHub profile avatar" width="108" height="108" />
+
+# Faisal // <code>faisaltariq-dev</code>
+
+**Computer Engineer · Agentic Software · RAG · Backend Systems**
+
+*Information navigation over information retention.*
+
+<img src="./assets/terminal-profile.svg" width="100%" alt="Terminal dashboard showing live GitHub profile information, repository statistics and language usage" />
+
+[Projects](#current-featured-projects) &nbsp;·&nbsp; [GitHub](https://github.com/faisaltariq-dev) &nbsp;·&nbsp; [Exam Simulator](https://github.com/faisaltariq-dev/localhost-exam-simulator) &nbsp;·&nbsp; [OrderBuilder](https://github.com/faisaltariq-dev/kioskagentordermaker-enhanced)
+
+<sub>Dashboard generated from public GitHub data and refreshed daily by GitHub Actions. Language footprint measures public source-code bytes, not expertise.</sub>
+
+</div>
+
+---
+
 #### Agentic Development
 
 I enjoy building software at the boundary between deterministic systems and AI-driven systems, and understanding complex technologies by rebuilding simplified versions of them from first principles.
