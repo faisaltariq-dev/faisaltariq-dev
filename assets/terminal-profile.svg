@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Faisal: an agentic software developer terminal profile</title>
+<desc id="desc">Terminal-inspired developer dashboard displaying GitHub statistics, focus areas, featured projects, and GitHub language breakdown.</desc>
+<defs>
+      <linearGradient id="back" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b2018"/><stop offset="1" stop-color="#050a09"/></linearGradient>
+      <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#57f49d"/><stop offset="1" stop-color="#5ecfda"/></linearGradient>
+      <filter id="glow"><feGaussianBlur stdDeviation="11"/></filter>
+      <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#25533e" opacity="0.15"/></pattern>
+    </defs>
+<rect width="1200" height="800" fill="url(#back)"/>
+<rect width="1200" height="800" fill="url(#grid)"/>
+<ellipse cx="1020" cy="110" rx="240" ry="180" fill="#1e8654" opacity="0.11" filter="url(#glow)"/>
+<rect x="17" y="17" width="1166" height="765" rx="19" fill="#07100e" stroke="#306e4f" stroke-width="2"/>
+<path d="M 18 80 H 1182" stroke="#306e4f"/>
+<circle cx="46" cy="48" r="8" fill="#fc6a68"/>
+<circle cx="68" cy="48" r="8" fill="#ffc860"/>
+<circle cx="90" cy="48" r="8" fill="#4ed590"/>
+<text x="135" y="54" fill="#eefbf2" font-size="20" font-weight="600" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">faisaltariq-dev / profile.sh</text>
+<text x="1149" y="54" fill="#57f49d" font-size="16" font-weight="650" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">● LIVE PROFILE</text>
+<text x="49" y="123" fill="#57f49d" font-size="20" font-weight="600" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">➜  ~  $ neofetch --github --focus=agentic-systems</text>
+<rect x="45" y="147" width="405" height="334" rx="12" fill="#0c1915" stroke="#2c6346" stroke-width="1"/>
+<rect x="467" y="147" width="686" height="334" rx="12" fill="#0c1915" stroke="#2c6346" stroke-width="1"/>
+<text x="70" y="182" fill="#8ba99a" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">/usr/local/bin/identity</text>
+<text x="489" y="182" fill="#57f49d" font-size="16" font-weight="650" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">SYSTEM INFORMATION</text>
+<rect x="112" y="207" width="14" height="14" rx="2" fill="#74dbe9" opacity="0.75"/>
+<rect x="129" y="207" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="146" y="207" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="163" y="207" width="14" height="14" rx="2" fill="#57f49d" opacity="0.96"/>
+<rect x="180" y="207" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="197" y="207" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="214" y="207" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="231" y="207" width="14" height="14" rx="2" fill="#74dbe9" opacity="0.96"/>
+<rect x="248" y="207" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="265" y="207" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="282" y="207" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="299" y="207" width="14" height="14" rx="2" fill="#57f49d" opacity="0.96"/>
+<rect x="316" y="207" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="112" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="129" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="146" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="163" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.96"/>
+<rect x="180" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="197" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="214" y="224" width="14" height="14" rx="2" fill="#74dbe9" opacity="0.89"/>
+<rect x="231" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.96"/>
+<rect x="248" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="265" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="282" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="299" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.96"/>
+<rect x="316" y="224" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="112" y="241" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="129" y="241" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="146" y="241" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="112" y="258" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="129" y="258" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="146" y="258" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="112" y="275" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="129" y="275" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="146" y="275" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="163" y="275" width="14" height="14" rx="2" fill="#74dbe9" opacity="0.96"/>
+<rect x="180" y="275" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="197" y="275" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="214" y="275" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="231" y="275" width="14" height="14" rx="2" fill="#57f49d" opacity="0.96"/>
+<rect x="248" y="275" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="265" y="275" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="112" y="292" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="129" y="292" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="146" y="292" width="14" height="14" rx="2" fill="#74dbe9" opacity="0.89"/>
+<rect x="163" y="292" width="14" height="14" rx="2" fill="#57f49d" opacity="0.96"/>
+<rect x="180" y="292" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="197" y="292" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="214" y="292" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="231" y="292" width="14" height="14" rx="2" fill="#57f49d" opacity="0.96"/>
+<rect x="248" y="292" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="265" y="292" width="14" height="14" rx="2" fill="#74dbe9" opacity="0.82"/>
+<rect x="112" y="309" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="129" y="309" width="14" height="14" rx="2" fill="#74dbe9" opacity="0.82"/>
+<rect x="146" y="309" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="112" y="326" width="14" height="14" rx="2" fill="#74dbe9" opacity="0.75"/>
+<rect x="129" y="326" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="146" y="326" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="112" y="343" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="129" y="343" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="146" y="343" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<rect x="112" y="360" width="14" height="14" rx="2" fill="#57f49d" opacity="0.75"/>
+<rect x="129" y="360" width="14" height="14" rx="2" fill="#57f49d" opacity="0.82"/>
+<rect x="146" y="360" width="14" height="14" rx="2" fill="#57f49d" opacity="0.89"/>
+<text x="244" y="421" fill="#eefbf2" font-size="21" font-weight="700" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="middle">FAISAL.T</text>
+<text x="244" y="451" fill="#8ba99a" font-size="12" font-weight="600" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="middle">ENGINEER  //  BUILDER</text>
+<path d="M 489 201 L 1131 201" stroke="#244e3b" stroke-width="1" opacity="1"/>
+<text x="495" y="234" fill="#8ba99a" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">user</text>
+<text x="650" y="234" fill="#244e3b" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">:</text>
+<text x="670" y="234" fill="#eefbf2" font-size="16" font-weight="550" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Faisal</text>
+<text x="495" y="265" fill="#8ba99a" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">handle</text>
+<text x="650" y="265" fill="#244e3b" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">:</text>
+<text x="670" y="265" fill="#eefbf2" font-size="16" font-weight="550" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">@faisaltariq-dev</text>
+<text x="495" y="296" fill="#8ba99a" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">role</text>
+<text x="650" y="296" fill="#244e3b" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">:</text>
+<text x="670" y="296" fill="#eefbf2" font-size="16" font-weight="550" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Computer Engineer / Developer</text>
+<text x="495" y="327" fill="#8ba99a" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">focus</text>
+<text x="650" y="327" fill="#244e3b" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">:</text>
+<text x="670" y="327" fill="#eefbf2" font-size="16" font-weight="550" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Agents, RAG, backends, cloud</text>
+<text x="495" y="358" fill="#8ba99a" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">principle</text>
+<text x="650" y="358" fill="#244e3b" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">:</text>
+<text x="670" y="358" fill="#eefbf2" font-size="16" font-weight="550" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Deterministic core + AI workflows</text>
+<text x="495" y="389" fill="#8ba99a" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">based</text>
+<text x="650" y="389" fill="#244e3b" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">:</text>
+<text x="670" y="389" fill="#57f49d" font-size="16" font-weight="550" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Saudi Arabia</text>
+<text x="495" y="420" fill="#8ba99a" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">mode</text>
+<text x="650" y="420" fill="#244e3b" font-size="16" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">:</text>
+<text x="670" y="420" fill="#57f49d" font-size="16" font-weight="550" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Building  •  Testing  •  Learning</text>
+<path d="M 489 460 L 1131 460" stroke="#244e3b" stroke-width="1" opacity="1"/>
+<rect x="45" y="499" width="265" height="108" rx="12" fill="#0e211a" stroke="#2c6346" stroke-width="1"/>
+<text x="64" y="531" fill="#8ba99a" font-size="14" font-weight="650" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">PUBLIC REPOS</text>
+<text x="63" y="579" fill="#57f49d" font-size="38" font-weight="750" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">7</text>
+<path d="M 63 590 L 291 590" stroke="#244e3b" stroke-width="1" opacity="1"/>
+<rect x="325" y="499" width="265" height="108" rx="12" fill="#0e211a" stroke="#2c6346" stroke-width="1"/>
+<text x="344" y="531" fill="#8ba99a" font-size="14" font-weight="650" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">SOURCE REPOS</text>
+<text x="343" y="579" fill="#57f49d" font-size="38" font-weight="750" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">5</text>
+<path d="M 343 590 L 571 590" stroke="#244e3b" stroke-width="1" opacity="1"/>
+<rect x="605" y="499" width="265" height="108" rx="12" fill="#0e211a" stroke="#2c6346" stroke-width="1"/>
+<text x="624" y="531" fill="#8ba99a" font-size="14" font-weight="650" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">TOTAL STARS</text>
+<text x="623" y="579" fill="#57f49d" font-size="38" font-weight="750" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">0</text>
+<path d="M 623 590 L 851 590" stroke="#244e3b" stroke-width="1" opacity="1"/>
+<rect x="885" y="499" width="265" height="108" rx="12" fill="#0e211a" stroke="#2c6346" stroke-width="1"/>
+<text x="904" y="531" fill="#8ba99a" font-size="14" font-weight="650" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">FOLLOWERS</text>
+<text x="903" y="579" fill="#74dbe9" font-size="38" font-weight="750" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">2</text>
+<path d="M 903 590 L 1131 590" stroke="#244e3b" stroke-width="1" opacity="1"/>
+<rect x="45" y="625" width="735" height="117" rx="12" fill="#0c1915" stroke="#2c6346" stroke-width="1"/>
+<rect x="796" y="625" width="357" height="117" rx="12" fill="#0c1915" stroke="#2c6346" stroke-width="1"/>
+<text x="66" y="651" fill="#57f49d" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">LANGUAGE FOOTPRINT</text>
+<text x="814" y="651" fill="#57f49d" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">SIGNAL / NOISE</text>
+<rect x="66" y="667" width="244" height="16" rx="2" fill="#57f49d"/>
+<rect x="310" y="667" width="220" height="16" rx="2" fill="#74dbe9"/>
+<rect x="530" y="667" width="106" height="16" rx="2" fill="#b9a0ff"/>
+<rect x="636" y="667" width="68" height="16" rx="2" fill="#ffcf75"/>
+<rect x="704" y="667" width="31" height="16" rx="2" fill="#fb9175"/>
+<circle cx="68" cy="704" r="5" fill="#57f49d"/>
+<text x="80" y="709" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Python 36%</text>
+<circle cx="296" cy="704" r="5" fill="#74dbe9"/>
+<text x="308" y="709" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">JavaScript 33%</text>
+<circle cx="524" cy="704" r="5" fill="#b9a0ff"/>
+<text x="536" y="709" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Go 16%</text>
+<circle cx="68" cy="727" r="5" fill="#ffcf75"/>
+<text x="80" y="732" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">CSS 10%</text>
+<circle cx="296" cy="727" r="5" fill="#fb9175"/>
+<text x="308" y="732" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Shell 5%</text>
+<text x="815" y="688" fill="#eefbf2" font-size="16" font-weight="650" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">NAVIGATION  &gt;</text>
+<text x="815" y="713" fill="#57f49d" font-size="20" font-weight="750" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">RETENTION</text>
+<text x="815" y="731" fill="#8ba99a" font-size="11" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">less collecting, more building</text>
+<text x="48" y="765" fill="#8ba99a" font-size="13" font-weight="550" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">github.com/faisaltariq-dev</text>
+<text x="1150" y="765" fill="#8ba99a" font-size="12" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">SYNC 2026-10-30 22:06 UTC</text>
+</svg>
