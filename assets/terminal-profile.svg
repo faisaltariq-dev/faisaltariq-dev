@@ -125,30 +125,30 @@
 <path d="M 623 590 L 851 590" stroke="#244e3b" stroke-width="1" opacity="1"/>
 <rect x="885" y="499" width="265" height="108" rx="12" fill="#0e211a" stroke="#2c6346" stroke-width="1"/>
 <text x="904" y="531" fill="#8ba99a" font-size="14" font-weight="650" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">FOLLOWERS</text>
-<text x="903" y="579" fill="#74dbe9" font-size="38" font-weight="750" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">2</text>
+<text x="903" y="579" fill="#74dbe9" font-size="38" font-weight="750" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">3</text>
 <path d="M 903 590 L 1131 590" stroke="#244e3b" stroke-width="1" opacity="1"/>
 <rect x="45" y="625" width="735" height="117" rx="12" fill="#0c1915" stroke="#2c6346" stroke-width="1"/>
 <rect x="796" y="625" width="357" height="117" rx="12" fill="#0c1915" stroke="#2c6346" stroke-width="1"/>
 <text x="66" y="651" fill="#57f49d" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">LANGUAGE FOOTPRINT</text>
 <text x="814" y="651" fill="#57f49d" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">SIGNAL / NOISE</text>
-<rect x="66" y="667" width="239" height="16" rx="2" fill="#57f49d"/>
-<rect x="305" y="667" width="228" height="16" rx="2" fill="#74dbe9"/>
-<rect x="533" y="667" width="102" height="16" rx="2" fill="#b9a0ff"/>
-<rect x="635" y="667" width="71" height="16" rx="2" fill="#ffcf75"/>
-<rect x="706" y="667" width="30" height="16" rx="2" fill="#fb9175"/>
+<rect x="66" y="667" width="234" height="16" rx="2" fill="#57f49d"/>
+<rect x="300" y="667" width="223" height="16" rx="2" fill="#74dbe9"/>
+<rect x="523" y="667" width="100" height="16" rx="2" fill="#b9a0ff"/>
+<rect x="623" y="667" width="69" height="16" rx="2" fill="#ffcf75"/>
+<rect x="692" y="667" width="43" height="16" rx="2" fill="#fb9175"/>
 <circle cx="68" cy="704" r="5" fill="#57f49d"/>
-<text x="80" y="709" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Python 36%</text>
+<text x="80" y="709" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Python 35%</text>
 <circle cx="296" cy="704" r="5" fill="#74dbe9"/>
-<text x="308" y="709" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">JavaScript 34%</text>
+<text x="308" y="709" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">JavaScript 33%</text>
 <circle cx="524" cy="704" r="5" fill="#b9a0ff"/>
 <text x="536" y="709" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Go 15%</text>
 <circle cx="68" cy="727" r="5" fill="#ffcf75"/>
-<text x="80" y="732" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">CSS 11%</text>
+<text x="80" y="732" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">CSS 10%</text>
 <circle cx="296" cy="727" r="5" fill="#fb9175"/>
-<text x="308" y="732" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Shell 4%</text>
+<text x="308" y="732" fill="#eefbf2" font-size="13" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">Shell 6%</text>
 <text x="815" y="688" fill="#eefbf2" font-size="16" font-weight="650" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">NAVIGATION  &gt;</text>
 <text x="815" y="713" fill="#57f49d" font-size="20" font-weight="750" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">RETENTION</text>
 <text x="815" y="731" fill="#8ba99a" font-size="11" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">less collecting, more building</text>
 <text x="48" y="765" fill="#8ba99a" font-size="13" font-weight="550" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace">github.com/faisaltariq-dev</text>
-<text x="1150" y="765" fill="#8ba99a" font-size="12" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">SYNC 2026-11-13 12:16 UTC</text>
+<text x="1150" y="765" fill="#8ba99a" font-size="12" font-weight="500" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">SYNC 2026-11-14 11:31 UTC</text>
 </svg>
